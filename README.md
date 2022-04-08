@@ -6,9 +6,9 @@ Version Number: 5b8d0fd276b6d288905ed2f63a934e057e8feca2
 This is a simple calculator build using react.
 
 ## To run application:
-First install packages using 'yarn install'\
+First install packages using 'yarn install'
 
-Type 'yarn start' in terminal, view application at http://localhost:3000\
+Type 'yarn start' in terminal, view application at http://localhost:3000
 
 To run tests:\
 Type 'yarn test' in terminal
